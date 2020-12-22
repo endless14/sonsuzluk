@@ -1,0 +1,23 @@
+BenimStringListem = ['ünal','şeref','ahmet' ]
+BenimDigerListem =   ['berkayrda' ,'arda',' baran']
+benimtoplamalistem = BenimDigerListem +  BenimStringListem
+['berkayrda', 'arda', ' baran', 'ünal', 'şeref', 'ahmet']
+benimtoplamalistem * 5
+benimtoplamalistem.reverse ()
+['ahmet', 'şeref', 'ünal', ' baran', 'arda', 'berkayrda']
+karisikliste = [1,2,3,'seref', 9.5]
+type (karisikliste)
+sonucum = karisikliste[4]
+NestedList = [1,5,'şeref',4,[6,'z']]
+ NestedList[4][1]
+ deneme1 = [1,2,'azra',[5,'azra']]
+ deneme1[3][1]
+ karisik = [[1,2,3,['a','b' ], 50 ],40,20,['z',5.5 ],[3,['a']]]
+ bDegiskenimiz = karisik[0][3][1]
+ bDegiskenimiz =  b
+ 
+
+
+
+
+
